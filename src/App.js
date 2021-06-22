@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Footer from './components/footer/footer'
 
 
 
@@ -14,7 +14,7 @@ export default class App extends React.Component {
 		return (
 			
 			
-			<h1>Music App</h1>
+			<Footer />
 			
 			
 		)
