@@ -8,7 +8,7 @@ function Footer() {
 		<div>
 
 
-		<h3>Copyright © {year}</h3>
+		<h3>Bhavdeep Development Copyright © {year}</h3>
 
 
 		</div>
